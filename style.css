@@ -1,0 +1,162 @@
+/*Overall style*/
+
+html{
+    background: linear-gradient(150deg, rgb(5, 24, 85),  
+    rgb(16, 119, 210),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185),
+    rgb(189, 216, 240))100% no-repeat;
+    padding-left: 5%;
+    padding-right: 5%;
+    height: auto;
+}
+body{
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+}
+div#main{
+    font-size: 5em;
+}
+/*Home*/
+
+div#home{
+    font-size: 4em;
+    height: 1000px;
+}
+div#nav{
+
+}
+div#about_me{
+    border: double white 3px;
+    border-radius: 50px;
+    box-shadow: inset 10px 10px 15px rgba(211, 210, 210, 0.568);
+    background: radial-gradient(rgb(1, 90, 168),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185));
+    padding: 10px;
+    font-size: 2em;
+}
+div#skills{
+    border: double white 3px;
+    border-radius: 50px;
+    box-shadow: inset 10px 10px 15px rgba(211, 210, 210, 0.568);
+    background: radial-gradient(rgb(1, 90, 168),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185));
+    padding: 10px;
+    font-size: 2em;
+}
+div#prework{
+    border: double white 3px;
+    border-radius: 50px;
+    box-shadow: inset 10px 10px 15px rgba(211, 210, 210, 0.568);
+    background: radial-gradient(rgb(1, 90, 168),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185));
+    padding: 10px;
+    font-size: 2em;
+}
+div#contact{
+    border: double white 3px;
+    border-radius: 50px;
+    box-shadow: inset 10px 10px 15px rgba(211, 210, 210, 0.568);
+    background: radial-gradient(rgb(1, 90, 168),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185));
+    padding: 10px;
+    font-size: 2em;
+}
+
+
+/*About Me*/
+
+#strengths, #weaknesses, #hobbies{
+    font-size: 3em;
+    vertical-align: center;
+}
+
+#strengths ul li, #weaknesses ul li, #hobbies ul li{
+    list-style-type: none;
+}
+div#strengths{
+    border: double white 3px;
+    border-radius: 50px;
+    box-shadow: inset 10px 10px 15px rgba(211, 210, 210, 0.568);
+    background: radial-gradient(rgb(1, 90, 168),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185));
+}
+div#weaknesses{
+    border: double white 3px;
+    border-radius: 50px;
+    box-shadow: inset 10px 10px 15px rgba(211, 210, 210, 0.568);
+    background: radial-gradient(rgb(1, 90, 168),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185));
+}
+div#hobbies{
+    border: double white 3px;
+    border-radius: 50px;
+    box-shadow: inset 10px 10px 15px rgba(211, 210, 210, 0.568);
+    background: radial-gradient(rgb(1, 90, 168),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185));
+}
+
+/*Skills*/
+
+div#html{
+    font-size: 3em;
+    padding: 10px;
+}
+div#css{
+    font-size: 3em;
+    padding: 10px;
+}
+
+/*Previous Work*/
+
+img#web{
+    border: double white 3px;
+    border-radius: 50px;
+    box-shadow: inset 10px 10px 15px rgba(211, 210, 210, 0.568);
+    background: radial-gradient(rgb(1, 90, 168),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185));
+}
+html#prework{
+    height: 100%;
+}
+div#pokepage{
+    font-size: 1.3em;
+}
+div#a_v{
+    font-size: 1.3em;
+}
+
+/*Contact*/
+
+html#contact{
+    height: 100%;
+}
+div#email a:link, div#email a:visited{
+    color: black
+}
+div#email a:hover, div#email a:active{
+    color: white;
+}
+div#email a{
+    text-decoration: none;
+}
+div#contacts{
+    font-size: 2em;
+    border: double white 3px;
+    border-radius: 50px;
+    box-shadow: inset 10px 10px 15px rgba(211, 210, 210, 0.568);
+    background: radial-gradient(rgb(1, 90, 168),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185));
+}
+#none{
+    white-space: no-wrap;
+}
